@@ -1,7 +1,6 @@
-# Alaska Chat
+# Alaska Chat - A chat app built with Socket.IO
 
-* This is a very simple chat application, built using boilerplate code from [Socket.IO](http://socket.io/get-started/chat/)
-
+This is a very simple chat application, built using boilerplate code from [Socket.IO](http://socket.io/get-started/chat/)
 Follow these steps to run the project:
   - Open in Repl.it [here](https://replit.com/@hurstja/alaskachat#index.js)
   - Fork Repl to your own account
