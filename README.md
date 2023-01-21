@@ -2,6 +2,11 @@
 
 This is a barebones chat application, built using boilerplate code from [Socket.IO](http://socket.io/get-started/chat/)
 
+  ![](Screenshot.png)
+
+
+
+
 Follow these steps to run the project:
   - Open in Repl.it [here](https://replit.com/@hurstja/alaskachat#index.js)
   - Fork Repl to your own account
