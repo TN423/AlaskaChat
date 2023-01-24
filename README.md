@@ -1,4 +1,4 @@
-# Simple Chat- A chat app built with Socket.IO
+# SimpleChat- A chat app built with Socket.IO
 
 This is a barebones chat application, built using boilerplate code from [Socket.IO](http://socket.io/get-started/chat/)
 
