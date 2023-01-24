@@ -1,4 +1,4 @@
-# Alaska Chat - A chat app built with Socket.IO
+# Simple Chat- A chat app built with Socket.IO
 
 This is a barebones chat application, built using boilerplate code from [Socket.IO](http://socket.io/get-started/chat/)
 
@@ -8,7 +8,7 @@ This is a barebones chat application, built using boilerplate code from [Socket.
 
 
 Follow these steps to run the project:
-  - Open in Repl.it [here](https://replit.com/@hurstja/alaskachat#index.js)
+  - Open in Repl.it [here](https://replit.com/@hurstja/simplechat#index.js)
   - Fork Repl to your own account
   - In the forked version click on 'Shell' and type 'npm start' to start the server
     - The application won't work unless the server has been started
